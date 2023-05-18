@@ -1,3 +1,3 @@
 # kaiji-website
 
-test
+Hosted at kaijiuno.com
